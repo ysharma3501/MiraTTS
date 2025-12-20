@@ -2,6 +2,8 @@
 [MiraTTS](https://huggingface.co/YatharthS/MiraTTS) is a finetune of the excellent [Spark-TTS](https://huggingface.co/SparkAudio/Spark-TTS-0.5B) model for enhanced realism and stability performing on par with closed source models. 
 This repository also heavily optimizes Mira with [Lmdeploy](https://github.com/InternLM/lmdeploy) and boosts quality by using [FlashSR](https://github.com/ysharma3501/FlashSR) to generate high quality audio at over **100x** realtime!
 
+https://github.com/user-attachments/assets/262088ae-068a-49f2-8ad6-ab32c66dcd17
+
 ## Key benefits
 - Incredibly fast: Over 100x realtime by using Lmdeploy and batching.
 - High quality: Generates clear and crisp 48khz audio outputs which is much higher quality then most models.
