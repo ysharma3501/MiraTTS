@@ -63,7 +63,7 @@ Colab notebook: https://colab.research.google.com/drive/1IprDyaMKaZrIvykMfNrxWFe
 - [ ] Release native 48khz bicodec
       
 ## Final notes
-Thanks very much to the authors of Spark-TTS. Thanks for checking out this repository as well.
+Thanks very much to the authors of Spark-TTS and unsloth. Thanks for checking out this repository as well.
 
 Stars would be well appreciated, thank you.
 
